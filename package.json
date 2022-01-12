@@ -1,0 +1,13 @@
+{
+  "name": "babel-plugin-less",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Hulk",
+  "keywords": [
+    "babel-plugin",
+    "less",
+    "antd",
+    "babel"
+  ],
+  "license": "MIT"
+}
